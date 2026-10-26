@@ -78,5 +78,5 @@
          true keeps the GPU drawing path but calms the movement: a stiff highlight spring with no bounce,
          tiles that zoom without overshoot, shorter fades and no tile entrance when Home comes back. Set it
          here or with "reduced_motion": true in a theme's config.json; false keeps the normal motion. -->
-    <bool name="reduced_motion">false</bool>
+    <bool name="reduced_motion">true</bool>
 </resources>
