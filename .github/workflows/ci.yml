@@ -54,3 +54,4 @@ jobs:
         with:
           name: launcher-apk
           path: launcher/app/build/outputs/apk/release/app-release.apk
+          
